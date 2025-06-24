@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+venv/
+env/
+# Telethon session
+*.session
+# Environment
+.env
+# Data and images
+data
+images/
+photos.zip
